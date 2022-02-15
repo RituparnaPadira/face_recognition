@@ -3,12 +3,12 @@
 This repository contains 2 main files
 
 ##  -> face_data.py
-        Execute this file to capture your face data.
-        Enter your name and look into the camera till the program captures sufficient images.
+   Execute this file to capture your face data.
+   Enter your name and look into the camera till the program captures sufficient images.
 
 ## -> person_recognition.py
-This file recognises the person in the camera.
-Run this program and it will recognise you !!!!
+   This file recognises the person in the camera.
+   Run this program and it will recognise you !!!!
 
 ## How is it made ?
   This project is made using python.
